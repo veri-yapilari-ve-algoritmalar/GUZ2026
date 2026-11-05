@@ -1,9 +1,9 @@
 # Site settings
 course_name: Veri Yapıları ve Algoritmaları
 course_description: "Algoritma geliştirirken probleme özgü veri yapılarının seçimi ve kullanımı öğrenilemektedir."
-course_semester: "Güz 2025"
+course_semester: "Güz 2026"
 
-baseurl: "/GUZ2025" # the subpath of your site, e.g. /blog/
+baseurl: "/GUZ2026" # the subpath of your site, e.g. /blog/
 url: "https://veri-yapilari-ve-algoritmalar.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Kocaeli Üniversitesi"
