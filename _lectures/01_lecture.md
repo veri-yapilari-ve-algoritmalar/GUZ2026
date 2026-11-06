@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-10-03T12:43:10+4:30 
+date: 2026-09-28T12:40:00+03:00
 title: Giriş
 
 # optional
@@ -16,8 +16,8 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://docs.google.com/presentation/d/e/2PACX-1vRN-ICJjLRFokCWbq4MDrlgoAQI-PlOBb125oNZRX721_fEaerRwefgTC23pk-D0vQb1i7o4L8sx0xy/pub?start=false&loop=false&delayms=3000
-      name: slaytlar
+    - url: /slides/01_Giris.html
+      name: "slaytlar (tam ekran)"
    # - url: #
    #   name: ders kaydı
     
@@ -33,3 +33,7 @@ links:
 - [Readings 1](http://example.com)
 - [Readings 2](http://example.com)
 -->
+
+<div style="position: relative; width: 100%; padding-top: 56.25%; margin-top: 1em;">
+  <iframe src="{{ site.baseurl }}/slides/01_Giris.html" title="Giriş — slaytlar" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy"></iframe>
+</div>
